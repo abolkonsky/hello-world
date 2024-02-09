@@ -1,6 +1,4 @@
-# hello-world
-Hello world repository
+# About my first project on GitHub.
+Note: If you're not sure what to write, take a look at other repositories on GitHub to see how other people describe their projects.
 
-I am a new GitHub developer Andrej Mitrovic!
-
-Hello World!
+To apply more sophisticated formatting, such as adding images, links, and footnotes, see "Basic writing and formatting syntax."
